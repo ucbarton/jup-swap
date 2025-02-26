@@ -4,7 +4,7 @@
 
 ## Установка
 
-1. Скачать папку с github
+1. Скачать папку с github (либо в терминале написать `git clone https://github.com/ucbarton/jup-swap.git`) и перейти в репозиторий скрипта `cd jup-swap`
 2. npm install
 3. Переименовать privates-example.txt в privates.txt и вставить приватники от Solana кошелька каждый с новой строки
 4. Переименовать proxys-example.txt в proxys.txt и вставить столько же прокси, сколько приватников:
